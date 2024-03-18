@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# dissertations-2024-info
-=======
 # dissertations-2024-info
 
 This is the repository for the 2024 Informatics MSc dissertations.
@@ -18,4 +15,4 @@ For example, if your name is John Smith and your project was "tinder for startup
 
 john_recommend
 
->>>>>>> 2c7d983 (Readme updated)
+Test
