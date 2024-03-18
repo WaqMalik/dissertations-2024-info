@@ -14,5 +14,3 @@ where X is either "recommend" for the "tinder for startups" project or "sysid" f
 For example, if your name is John Smith and your project was "tinder for startups" you would need to name your branch 
 
 john_recommend
-
-Test
